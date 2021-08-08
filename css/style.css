@@ -389,7 +389,7 @@ header nav .form i {
     padding-bottom: var(--seection-padding);
     height: 600px;
     position: relative;
-    background-image: url(../Images/design-features.jpg);
+    background-image: url(../images/design-features.jpg);
     background-size: cover;
     display: flex;
     align-items: center;
@@ -591,7 +591,7 @@ ul.shuffle li.active {
     padding-top: var(--seection-padding);
     padding-bottom: var(--seection-padding);
     text-align: center;
-    background-image: url(../Images/stats.png);
+    background-image: url(../images/stats.png);
     background-size: cover;
     position: relative;
 }
@@ -780,7 +780,7 @@ ul.shuffle li.active {
 .quote {
     padding-top: var(--seection-padding);
     padding-bottom: var(--seection-padding);
-    background-image: url(../Images/quote.jpg);
+    background-image: url(../images/quote.jpg);
     background-size: cover;
     position: relative;
     text-align: center;
@@ -1067,7 +1067,7 @@ ul.shuffle li.active {
     padding-top: calc(var(--seection-padding) / 2);
     padding-bottom: calc(var(--seection-padding) / 5);
     margin: 0;
-    background-image: url(../Images/subscribe.jpg);
+    background-image: url(../images/subscribe.jpg);
     background-size: cover;
     position: relative;
     color: #fff;
